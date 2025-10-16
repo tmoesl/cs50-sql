@@ -1,6 +1,9 @@
 # CS50's Introduction to Databases with SQL (2024)
 
-![Status](https://img.shields.io/badge/-Completed-34A853?style=flat&label=Course&labelColor=23555555)
+![status](https://img.shields.io/badge/-completed-34A853?style=flat&label=status&labelColor=23555555)
+![languages](https://img.shields.io/github/languages/count/tmoesl/lead-conversion-prediction?label=languages)
+![top language](https://img.shields.io/github/languages/top/tmoesl/cs50-sql?&color=red)
+![last commit](https://img.shields.io/github/last-commit/tmoesl/cs50-sql?style=flat&color=white)
 
 This repository contains my solutions to [CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/sql/) course from Harvard University, available on the platform [edX](https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql). (🎓 **[View Certificate](https://courses.edx.org/certificates/f575af38bc2b46d693af65b1339330e9)**)
 
